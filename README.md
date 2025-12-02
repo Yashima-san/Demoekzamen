@@ -5,7 +5,7 @@
     <a href="https://drive.google.com/file/d/1LOI4EABBuTYqo1ksVjKcNfoz3yaWsJAm/view">ER-диаграмма в drive.google</a>
     <p>Где можно сделать:</p>
 <ol>
-    <li>Drav.io</li>
+    <li>Draw.io</li>
     <li>MySQL Workbench</li>
 </ol>
 <h2>Модуль 2. Разработка базы данных на основании ER-диаграммы</h2>
